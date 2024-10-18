@@ -1,8 +1,16 @@
 # Tarea 1
 
+## Descripción
+
+Tarea 1 del modulo 2 del curso, es un sitio web para un hospital que posee las siguientes páginas:
+
+1. index.html - página principal del sitio en donde se encuentra la bienvenida, servicios y testimonios de pacientes
+2. equipo-medico.html - página del equipo medico, posee la informacion de los médicos del hospital
+3. contacto.html - página de contacto junto con la ubicación del hospital en un mapa
+
 ## Visualizar tarea
 
-Se puede abrir el archivo **index.html** para visualizar el sitio pero lo mas recomendable es ejecutar lo siguiente, se debe tener docker instalado
+Se puede abrir el archivo **index.html** para visualizar el sitio pero lo mas recomendable es ejecutar el siguiente comando, se debe tener docker instalado
 
 ```
 docker-compose up -d
